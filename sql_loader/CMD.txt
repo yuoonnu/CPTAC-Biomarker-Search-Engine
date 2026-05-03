@@ -1,0 +1,9 @@
+CMD
+
+sqlldr userid=system/*********** control=load_patient.ctl.txt log=load_patient.log skip=1
+
+sqlldr userid=system/*********** control=load_sample.ctl.txt log=load_sample.log skip=1
+
+sqlldr userid=system/*********** control=load_meta.ctl.txt log=load_meta.log skip=1
+
+sqlldr userid=system/*********** control=load_expr.ctl.txt log=load_expr.log skip=1
