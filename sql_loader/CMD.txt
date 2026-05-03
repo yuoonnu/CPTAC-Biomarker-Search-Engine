@@ -1,5 +1,3 @@
-CMD
-
 sqlldr userid=system/*********** control=load_patient.ctl.txt log=load_patient.log skip=1
 
 sqlldr userid=system/*********** control=load_sample.ctl.txt log=load_sample.log skip=1
