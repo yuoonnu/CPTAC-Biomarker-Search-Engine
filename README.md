@@ -1,4 +1,4 @@
-# 🧬 CPTAC Multi-omics Search Engine & TF-IDF Text Mining (Phase 2)
+# 🧬 CPTAC Multi-omics Search Engine & TF-IDF Text Mining
 
 This project builds an advanced multi-omics search engine by integrating R-based text mining (TF-IDF) with a Relational Database (RDB). It transforms biological knowledge into a searchable index and utilizes complex SQL joins to discover breast cancer biomarkers, effectively bridging IT architecture with precision medicine.
 
